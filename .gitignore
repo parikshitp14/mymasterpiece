@@ -1,1 +1,5 @@
 secrets.txt
+
+# *.text all files end with .text extension will be ignored
+# github.com/gitignore here premaid giignore files is given by github
+#git clone and then the link from github to clone any repository
